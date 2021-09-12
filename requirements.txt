@@ -1,0 +1,6 @@
+torch
+matplotlib
+flask
+numpy
+vision
+torchvision
